@@ -1,0 +1,26 @@
+h1 {
+    color: #ade6d4;
+    font-size: 32px;
+    font-style: bold;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.score {
+    color: #6cf3d5;
+}
+
+.gold {
+    color: #6cf3d5;
+}
+#gameLink {
+    text-align: center;
+    border: 1px solid gray;
+}
+#scoresbtn {
+  color:#6cf3d5
+}
+#helpbtn {
+  color:#6cf3d5
+}
+#creditsbtn {
+  color:#6cf3d5
+}

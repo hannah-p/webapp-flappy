@@ -1,0 +1,8 @@
+Flying fox
+
+
+
+How to play:
+- Press SPACE to flap your wings.
+- Avoid the pipes.
+- If you crash, just try again!
